@@ -1,0 +1,23 @@
+{
+	"name": "rmcgirr83/hidecopyright",
+	"type": "phpbb-extension",
+	"description": "Hides copyright information on the forum",
+	"version": "1.0.0",
+	"time": "2020-10-11",
+	"license": "GPL-2.0-only",
+	"authors": [
+		{
+			"name": "Rich McGirr",
+			"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"extra": {
+		"display-name": "Hide Copyright",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.2"
+		}
+	}
+}
