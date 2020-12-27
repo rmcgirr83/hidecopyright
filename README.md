@@ -1,7 +1,8 @@
-Hide Copyright
-=========================
+# Hide Copyright for phpBB3
 
 phpBB extension that will hide the phpBB copyright on the forum.
+
+[![Build Status](https://github.com/rmcgirr83/hidecopyright/workflows/Tests/badge.svg)](https://github.com/rmcgirr83/hidecopyright/actions)
 
 ## Installation
 
